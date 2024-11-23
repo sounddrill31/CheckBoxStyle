@@ -1,0 +1,16 @@
+C:\Users\Lenovo\source\repos\CheckBoxStyle\CheckBoxStyle\bin\Debug\net8.0-windows\CheckBoxStyle.exe
+C:\Users\Lenovo\source\repos\CheckBoxStyle\CheckBoxStyle\bin\Debug\net8.0-windows\CheckBoxStyle.deps.json
+C:\Users\Lenovo\source\repos\CheckBoxStyle\CheckBoxStyle\bin\Debug\net8.0-windows\CheckBoxStyle.runtimeconfig.json
+C:\Users\Lenovo\source\repos\CheckBoxStyle\CheckBoxStyle\bin\Debug\net8.0-windows\CheckBoxStyle.dll
+C:\Users\Lenovo\source\repos\CheckBoxStyle\CheckBoxStyle\bin\Debug\net8.0-windows\CheckBoxStyle.pdb
+C:\Users\Lenovo\source\repos\CheckBoxStyle\CheckBoxStyle\obj\Debug\net8.0-windows\CheckBoxStyle.Form1.resources
+C:\Users\Lenovo\source\repos\CheckBoxStyle\CheckBoxStyle\obj\Debug\net8.0-windows\CheckBoxStyle.vbproj.GenerateResource.cache
+C:\Users\Lenovo\source\repos\CheckBoxStyle\CheckBoxStyle\obj\Debug\net8.0-windows\CheckBoxStyle.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\source\repos\CheckBoxStyle\CheckBoxStyle\obj\Debug\net8.0-windows\CheckBoxStyle.AssemblyInfoInputs.cache
+C:\Users\Lenovo\source\repos\CheckBoxStyle\CheckBoxStyle\obj\Debug\net8.0-windows\CheckBoxStyle.AssemblyInfo.vb
+C:\Users\Lenovo\source\repos\CheckBoxStyle\CheckBoxStyle\obj\Debug\net8.0-windows\CheckBoxStyle.vbproj.CoreCompileInputs.cache
+C:\Users\Lenovo\source\repos\CheckBoxStyle\CheckBoxStyle\obj\Debug\net8.0-windows\CheckBoxStyle.dll
+C:\Users\Lenovo\source\repos\CheckBoxStyle\CheckBoxStyle\obj\Debug\net8.0-windows\refint\CheckBoxStyle.dll
+C:\Users\Lenovo\source\repos\CheckBoxStyle\CheckBoxStyle\obj\Debug\net8.0-windows\CheckBoxStyle.pdb
+C:\Users\Lenovo\source\repos\CheckBoxStyle\CheckBoxStyle\obj\Debug\net8.0-windows\CheckBoxStyle.genruntimeconfig.cache
+C:\Users\Lenovo\source\repos\CheckBoxStyle\CheckBoxStyle\obj\Debug\net8.0-windows\ref\CheckBoxStyle.dll
